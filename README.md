@@ -14,3 +14,4 @@ https://www.jetbrains.com/webstorm/download/#section=windows
 5. After you confirm yor undestanding of step 4. you are all set to open and start your very own html script. So what you are going to do is: go to file, new, and select the html option from the dropdown list. Then you are going to be prompted to name this file and select which type of html form you would like to use. In this case we are going to use the most recent verision of html which is html5.
 
 6. Congradulations, you made it through our little tutorial on how to get, setup, and use Webstorm. Just note that Webstorm offers a whole lot of features that can be used for all kinds of things. It is now time for you to get started on your web-development carrer.
+7. 
