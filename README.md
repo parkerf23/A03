@@ -39,9 +39,9 @@ https://git-scm.com/downloads
 
 2. Create a **remote** between **Git** and **Github**, this is linking the two platforms together.
 
-3. Then when you are ready, you will create a repository on GitHub or Webtstorm and link Git to Github from Webstorm.
+3. Then when you are ready, you will create a repository on GitHub or Webtstorm and link Git to Github from Webstorm. You can do this in Webstrom by going to the top of Webstorm page and selecting the "VCS" tab, go down the list, and select share to GitHub which will establish a remote from Webstorm to GitHub.
 
-4. The way I got Webstorm, Git, and GitHub all connected was omce you open Webstorm and it displays all of your projects. Now on the top rifht of the window there is a tab labeled "Get from VCS", make sure you are signed into your GitHub accouunt and the version control is set to "Git". Next you will go to Github and create a new repository. After this make sure to copy the URL of the project and paste it into the "URL" section located on the "VCS" window in Webstorm. 
+4. **Note: this is only to bring your repository from GitHub to Webstorm** The way I got Webstorm, Git, and GitHub all connected was omce you open Webstorm and it displays all of your projects. Now on the top rifht of the window there is a tab labeled "Get from VCS", make sure you are signed into your GitHub accouunt and the version control is set to "Git". Next you will go to Github and create a new repository. After this make sure to copy the URL of the project and paste it into the "URL" section located on the "VCS" window in Webstorm. 
 
 5. Once this is set up correctly you will be able to commit your projects from Webstorm and push them to **GitHub**. You will also be able to do the same process from GitHub to Webstorm.
 
