@@ -49,10 +49,10 @@ https://git-scm.com/downloads
 
 Glossary Terms:
 
-- Branch: this git command lets you create, list, rename, and delete branchs, just note it does not allow you to switch between branches or place a forked history back together.
+- Branch: a command that links pages and instances together that creates a smooth path espically when others are updating and chaonging areas of the project
 
 
-- Clone: a repository pulls down a full copy of all the repositry data that GitHub has at that point in time, including all versions of every file and folder for the project
+- Clone: a repository that is in a sense copied identicaly in that exact instance to be worked on without making chnaces to the original version. This process is used when two programers have different ideas and want to use the same peice of code but want to take that code in different directions
 
 
 - Commit: is a command that in a sense gathers the changes to your current project during that time of the issued commit
@@ -76,15 +76,14 @@ Glossary Terms:
 - Push: a command that takes the newly commited repository and sends it to another platform like GitHub where it will be displayed
 
 
-- Pull: is used to fetch and download content from a remote repository and immediately update the local repository to match that content
+- Pull: is used to grab and download a repository from an established remote and instantly updates your local repository
 
 
-- Remote: this is a Git repository that is hosted on the internet or another network.
+- Remote: is the verison that was linked to Git and GitHub and can be locked somewhere other then your local machine.
 
 
 - Repository: a directory or storage space where your projects can live.
 
-sd
 
 Referances:
 
