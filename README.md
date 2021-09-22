@@ -29,7 +29,7 @@ j
 
 5. You can do this by creating a new repository in GitHub! To create one your are going to locate the plus sign "+" at the top right of the page. Click this icon and a menu will be displayed, just go ahead and click create new repository! You will then be prompted to name your repository, choose if you want it to be displayed publicly or privitily, and to choose what to initialize your repository with. In our case we are going to choose the README file, which allows you to lean a detailed description of you project to whomever views it.
 
-6. 
+6. hello and welcome!
 
 
 Step-by-step on how to get started with Git
