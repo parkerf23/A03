@@ -55,7 +55,7 @@ Glossary Terms:
 - Clone: a repository pulls down a full copy of all the repositry data that GitHub has at that point in time, including all versions of every file and folder for the project
 
 
-- Commit: are created with the git commit command to capture the state of a project at that point in time
+- Commit: is a command that in a sense gathers the changes to your current project during that time of the issued commit
 
 
 - Fetch: downloads commits, files, and refs from a remote repository intot your local repository.
@@ -64,16 +64,16 @@ Glossary Terms:
 - GIT: is a software for tracking changes in any set of files, usually used for coordinating work among programmers collaboratively developing source code during software development.
 
 
-- Github: is a distributed version-control platform where users can collaborate on or adopt opn source code projects, fork code, share ideas and so much more.
+- GitHub: is a distributed version-control platform where users can collaborate on or adopt opn source code projects, fork code, share ideas and so much more.
 
 
-- Merge: this Git command lets you take the independent lines of development created by git branch and integrate them into a single branch
+- Merge: is a command that grabs a newly committed push and has it absorb the old repository creating a new updated one.
 
 
 - Merge Conflict: this Git command is used sole job is to combine separate branches and resolve any conflicting edits
 
 
-- Push: is how you transfer commit from your local repository to a remote repository
+- Push: a command that takes the newly commited repository and sends it to another platform like GitHub where it will be displayed
 
 
 - Pull: is used to fetch and download content from a remote repository and immediately update the local repository to match that content
