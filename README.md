@@ -24,12 +24,12 @@ https://github.com/
 2. Next you are going to follow te steps to create your very own GitHub account.
 
 3. Once done settin up your account you are ready to start using GitHub.
-j
+
 4. With GetHub it allows you to upload your script files show that everyone can view them.  
 
 5. You can do this by creating a new repository in GitHub! To create one your are going to locate the plus sign "+" at the top right of the page. Click this icon and a menu will be displayed, just go ahead and click create new repository! You will then be prompted to name your repository, choose if you want it to be displayed publicly or privitily, and to choose what to initialize your repository with. In our case we are going to choose the README file, which allows you to lean a detailed description of you project to whomever views it.
 
-6. hello and welcome!
+6. Wonderful you now are the owner of your own GitHub account.
 
 
 Step-by-step on how to get started with Git
@@ -37,52 +37,55 @@ Step-by-step on how to get started with Git
 1. First your going to head to the link below and download Git for your machine.
 https://git-scm.com/downloads
 
-2. Create a remote between Git and Github, this is linking the two platforms together.
+2. Create a **remote** between **Git** and **Github**, this is linking the two platforms together.
 
 3. Then when you are ready, you will create a repository on GitHub or Webtstorm and link Git to Github from Webstorm.
 
-4. Once this is set up correctly you will be able to commit your projects from Webstorm and push them to GitHub. You will also be able to the same process from GitHub to Webstorm.
+4. The way I got Webstorm, Git, and GitHub all connected was omce you open Webstorm and it displays all of your projects. Now on the top rifht of the window there is a tab labeled "Get from VCS", make sure you are signed into your GitHub accouunt and the version control is set to "Git". Next you will go to Github and create a new repository. After this make sure to copy the URL of the project and paste it into the "URL" section located on the "VCS" window in Webstorm. 
 
-5. When you commit and push your repository to either client you will be merging the updated repostiory with the old one, creating new merged file.
+5. Once this is set up correctly you will be able to commit your projects from Webstorm and push them to **GitHub**. You will also be able to do the same process from GitHub to Webstorm.
+
+6. When you **commit** and **push** your **repository** to either client you will be merging the updated repostiory with the old one, creating new **merged** file. 
+
 
 
 
 Glossary Terms:
 
-- Branch: a command that links pages and instances together that creates a smooth path espically when others are updating and chaonging areas of the project
+- **Branch**: a command that links pages and instances together that creates a smooth path espically when others are updating and changing areas of the project
 
 
-- Clone: a repository that is in a sense copied identicaly in that exact instance to be worked on without making chnaces to the original version. This process is used when two programers have different ideas and want to use the same peice of code but want to take that code in different directions
+- **Clone**: a repository that is in a sense copied identicaly in that exact instance to be worked on without making chnaces to the original version. This process is used when two programers have different ideas and want to use the same peice of code but want to take that code in different directions
 
 
-- Commit: is a command that in a sense gathers the changes to your current project during that time of the issued commit
+- **Commit**: is a command that in a sense gathers the changes to your current project during that time of the issued commit
 
 
-- Fetch: downloads commits, files, and refs from a remote repository intot your local repository.
+- **Fetch**: downloads commits, files, and refs from a remote repository into your local repository.
 
 
-- GIT: is a software for tracking changes in any set of files, usually used for coordinating work among programmers collaboratively developing source code during software development.
+- **GIT**: is a software for tracking changes in any set of files, usually used for coordinating work among programmers collaboratively developing source code during software development.
 
 
-- GitHub: is a distributed version-control platform where users can collaborate on or adopt opn source code projects, fork code, share ideas and so much more.
+- **GitHub**: is a distributed version-control platform where users can collaborate on or adopt opn source code projects, fork code, share ideas and so much more.
 
 
-- Merge: is a command that grabs a newly committed push and has it absorb the old repository creating a new updated one.
+- **Merge**: is a command that grabs a newly committed push and has it absorb the old repository creating a new updated one.
 
 
-- Merge Conflict: this Git command is used sole job is to combine separate branches and resolve any conflicting edits
+- **Merge Conflict**: this Git command is used sole job is to combine separate branches and resolve any conflicting edits
 
 
-- Push: a command that takes the newly commited repository and sends it to another platform like GitHub where it will be displayed
+- **Push**: a command that takes the newly commited repository and sends it to another platform like GitHub where it will be displayed
 
 
-- Pull: is used to grab and download a repository from an established remote and instantly updates your local repository
+- **Pull**: is used to grab and download a repository from an established remote and instantly updates your local repository
 
 
-- Remote: is the verison that was linked to Git and GitHub and can be locked somewhere other then your local machine.
+- **Remote**: is the verison that was linked to Git and GitHub and can be locked somewhere other then your local machine.
 
 
-- Repository: a directory or storage space where your projects can live.
+- **Repository**: a directory or storage space where your projects can live.
 
 
 Referances:
