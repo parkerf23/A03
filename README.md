@@ -37,7 +37,13 @@ Step-by-step on how to get started with Git
 1. First your going to head to the link below and download Git for your machine.
 https://git-scm.com/downloads
 
-2. is this working?
+2. Create a remote between Git and Github, this is linking the two platforms together.
+
+3. Then when you are ready, you will create a repository on GitHub or Webtstorm and link Git to Github from Webstorm.
+
+4. Once this is set up correctly you will be able to commit your projects from Webstorm and push them to GitHub. You will also be able to the same process from GitHub to Webstorm.
+
+
 
 
 
