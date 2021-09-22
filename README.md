@@ -43,7 +43,7 @@ https://git-scm.com/downloads
 
 4. Once this is set up correctly you will be able to commit your projects from Webstorm and push them to GitHub. You will also be able to the same process from GitHub to Webstorm.
 
-5. You will not read this part it is a test!
+5. When you commit and push your repository to either client you will be merging the updated repostiory with the old one, creating new merged file.
 
 
 
