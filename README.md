@@ -37,7 +37,7 @@ Step-by-step on how to get started with Git
 1. First your going to head to the link below and download Git for your machine.
 https://git-scm.com/downloads
 
-2. 
+2. is this working?
 
 
 
@@ -78,7 +78,7 @@ Glossary Terms:
 
 - Repository: a directory or storage space where your projects can live.
 
-
+sd
 
 Referances:
 
