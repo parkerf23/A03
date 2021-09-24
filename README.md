@@ -57,42 +57,42 @@ https://git-scm.com/downloads
 
 **Glossary Terms**:
 
-- **Branch**: a command that links pages and instances together that creates a smooth path espically when others are updating and changing areas of the project
+* **Branch**: a command that links pages and instances together that creates a smooth path espically when others are updating and changing areas of the project
 
 
-- **Clone**: a repository that is in a sense copied identicaly in that exact instance to be worked on without making chnaces to the original version. This process is used when two programers have different ideas and want to use the same peice of code but want to take that code in different directions
+* **Clone**: a repository that is in a sense copied identicaly in that exact instance to be worked on without making chnaces to the original version. This process is used when two programers have different ideas and want to use the same peice of code but want to take that code in different directions
 
 
-- **Commit**: is a command that in a sense gathers the changes to your current project during that time of the issued commit
+* **Commit**: is a command that in a sense gathers the changes to your current project during that time of the issued commit
 
 
-- **Fetch**: downloads commits, files, and refs from a remote repository into your local repository.
+* **Fetch**: downloads commits, files, and refs from a remote repository into your local repository.
 
 
-- **GIT**: is a software for tracking changes in any set of files, usually used for coordinating work among programmers collaboratively developing source code during software development.
+* **GIT**: is a software for tracking changes in any set of files, usually used for coordinating work among programmers collaboratively developing source code during software development.
 
 
-- **GitHub**: is an online platform where users can communicate and connect on or adapt open source code projects and share ideas.
+* **GitHub**: is an online platform where users can communicate and connect on or adapt open source code projects and share ideas.
 
 
-- **Merge**: is a command that grabs a newly committed push and has it absorb the old repository creating a new updated one.
+* **Merge**: is a command that grabs a newly committed push and has it absorb the old repository creating a new updated one.
 
 
-- **Merge Conflict**: is used to connect detached branches and correct any conflicting changes.
--
-
-- **Push**: a command that takes the newly commited repository and sends it to another platform like GitHub where it will be displayed
+* **Merge Conflict**: is used to connect detached branches and correct any conflicting changes.
 
 
-- **Pull**: is used to grab and download a repository from an established remote and instantly updates your local repository
+* **Push**: a command that takes the newly commited repository and sends it to another platform like GitHub where it will be displayed
 
 
-- **Remote**: is the verison that was linked to Git and GitHub and can be located somewhere other then your local machine.
+* **Pull**: is used to grab and download a repository from an established remote and instantly updates your local repository
 
 
-- **Repository**: a directory or storage space where your projects can live.
+* **Remote**: is the verison that was linked to Git and GitHub and can be located somewhere other then your local machine.
 
 
-Referances:
+* **Repository**: a directory or storage space where your projects can live.
+
+
+**Referances**:
 
 - https://www.atlassian.com/git/tutorials
