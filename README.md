@@ -51,6 +51,7 @@ https://git-scm.com/downloads
 
 6. When you **commit** and **push** your **repository** to either client you will be merging the updated repostiory with the old one, creating new **merged** file. 
 
+7. You can also use the **clone** function just incase you wanted to save a copy of your project at a specific instance. This is an ideal function when working on a project with others just incase an issues occurs.
 
 
 
@@ -71,14 +72,14 @@ https://git-scm.com/downloads
 - **GIT**: is a software for tracking changes in any set of files, usually used for coordinating work among programmers collaboratively developing source code during software development.
 
 
-- **GitHub**: is a distributed version-control platform where users can collaborate on or adopt opn source code projects, fork code, share ideas and so much more.
+- **GitHub**: is an online platform where users can communicate and connect on or adapt open source code projects and share ideas.
 
 
 - **Merge**: is a command that grabs a newly committed push and has it absorb the old repository creating a new updated one.
 
 
-- **Merge Conflict**: this Git command is used sole job is to combine separate branches and resolve any conflicting edits
-
+- **Merge Conflict**: is used to connect detached branches and correct any conflicting changes.
+-
 
 - **Push**: a command that takes the newly commited repository and sends it to another platform like GitHub where it will be displayed
 
@@ -86,7 +87,7 @@ https://git-scm.com/downloads
 - **Pull**: is used to grab and download a repository from an established remote and instantly updates your local repository
 
 
-- **Remote**: is the verison that was linked to Git and GitHub and can be locked somewhere other then your local machine.
+- **Remote**: is the verison that was linked to Git and GitHub and can be located somewhere other then your local machine.
 
 
 - **Repository**: a directory or storage space where your projects can live.
