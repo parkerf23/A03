@@ -1,6 +1,6 @@
 # A03
 
-Step-by-step on how to setup and get started with Webstorm!
+**Step-by-step on how to setup and get started with Webstorm!**
 
 1. First you are going to want to click the the link below, taking you to JetBrains so that you can download Webstorm:
 https://www.jetbrains.com/webstorm/download/#section=windows
@@ -16,23 +16,27 @@ https://www.jetbrains.com/webstorm/download/#section=windows
 6. Congradulations, you made it through our little tutorial on how to get, setup, and use Webstorm. Just note that Webstorm offers a whole lot of features that can be used for all kinds of things. It is now time for you to get started on your web-development carrer.
 
 
-Step-by-step on how to set up and get started with GetHub!
+**Step-by-step on how to set up and get started with GetHub!**
 
 1. First you are going to follow the link below and make your way over to GitHub!
 https://github.com/
 
 2. Next you are going to follow te steps to create your very own GitHub account.
 
-3. Once done settin up your account you are ready to start using GitHub.
+3. Once done setting up your account, you are now ready to start using GitHub.
 
-4. With GetHub it allows you to upload your script files show that everyone can view them.  
+4. With GetHub it allows you to upload your script files to its cloud server, granting you the ability to share your content with the world. 
 
-5. You can do this by creating a new repository in GitHub! To create one your are going to locate the plus sign "+" at the top right of the page. Click this icon and a menu will be displayed, just go ahead and click create new repository! You will then be prompted to name your repository, choose if you want it to be displayed publicly or privitily, and to choose what to initialize your repository with. In our case we are going to choose the README file, which allows you to lean a detailed description of you project to whomever views it.
+5. You can do this by creating a new **repository** in GitHub! To create one your are going to locate the plus sign "+" at the top right of the page. 
 
-6. Wonderful you now are the owner of your own GitHub account.
+6. Click this icon and a menu will be displayed, just go ahead and click create new repository! 
+
+7. You will then be prompted to name your repository, choose if you want it to be displayed publicly or privitily, and to choose what to initialize your repository with. In our case we are going to choose the README file, which allows you to leave a detailed description of your project to whomever views it.
+
+8. Wonderful you now are the owner of your own GitHub account.
 
 
-Step-by-step on how to get started with Git
+**Step-by-step on how to get started with Git**
 
 1. First your going to head to the link below and download Git for your machine.
 https://git-scm.com/downloads
@@ -50,7 +54,7 @@ https://git-scm.com/downloads
 
 
 
-Glossary Terms:
+**Glossary Terms**:
 
 - **Branch**: a command that links pages and instances together that creates a smooth path espically when others are updating and changing areas of the project
 
